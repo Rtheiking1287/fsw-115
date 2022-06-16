@@ -1,0 +1,67 @@
+{
+    "appetizers": [
+        {
+            "name": "Nachos",
+            "ingredients": ["tortilla chips", "cheese", "olives", "jalapenos", "ground beef", "sour cream", "salsa", "refried beans"],
+            "description": "Try our delicious nachos with just a little kick and all of the melted cheese that you could ever want."
+        },
+        {
+            "name": "Cheese Fries",
+            "ingredients": ["french fries", "colby jack cheese", "bacon", "ranch"],
+            "description": "Delicious seasoned fries, smothered in melted Colby Jack cheese, and finally drizzled with Ranch Dressing."
+        }
+    ],
+
+    "cold sandwiches": [
+        {
+            "name": "Turkey Club",
+            "ingredients": ["bread", "turkey", "bacon", "cheese", "mayo", "lettuce", "tomato"],
+            "description": "Tastey, juicy and full of flavor! You will not be disappointed by our Turkey Club."
+        },
+        {
+            "name": "BLT",
+            "ingredients": ["bread", "mayo", "bacon", "lettuce", "tomato"],
+            "description": "Another classic. What more do you need then some bacon, lettuce and tomato?? GET IT!!"
+        }
+
+    ],
+
+    "hot sandwiches": [
+        {
+            "name": "French Dip",
+            "ingredients": ["roast beef", "cheese", "butter", "hoagie bread", "au jus sauce"],
+            "description": "A nice hot roast beef sub with Au Jus for dipping."
+        },
+        {
+            "name": "Grilled Cheese",
+            "ingredients": ["bread", "colby jack cheese", "butter"],
+            "description": "What really needds to be said about this tried and true classic??"
+        }
+    ],
+
+    "desserts": [
+        {
+            "name": "New York Style Cheese Cake",
+            "ingredients": ["graham cracker crust", "cream cheese", "sugar", "salt", "lemon juice", "vanilla extract", "eggs", "strawberry sauce"],
+            "description": "Silky delicious cheese cake with strawberry swirls, sure to please."
+        },
+        {
+            "name": "Fudge Brownie",
+            "ingredients": ["butter", "sugar", "cocoa powder", "eggs", "salt", "vanilla", "all-purpose flour"],
+            "description": "A gooey, chocolatey treat, that basically melts into your mouth."
+        }
+    ],
+
+    "drinks": [
+        {
+            "name": "Iced Vanilla Latte",
+            "ingredients": ["brewed coffee", "cream", "vanilla syrup", "ice"],
+            "description": "When it's a hot day but you still need that energy jolt, grab our Iced Vanilla Latte, and then be ready to face the day."
+        },
+        {
+            "name": "Shirley Temple",
+            "ingredients": ["Soda", "Ice", "Maraschino cherries", "Grenadine"],
+            "description": "A sweet and simple taste that even Shirley would be all for!"
+        }
+    ]
+}
