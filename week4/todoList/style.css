@@ -9,3 +9,8 @@ h2 {
 * {
     background-color: aqua;
 }
+
+.is-completed {
+    text-decoration: line-through;
+    color: crimson;
+}
