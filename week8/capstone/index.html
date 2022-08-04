@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Much To-Do</title>
+        <link rel='stylesheet' href='./style.css' />
+    </head>
+    <body> 
+        <img class="list-image" src="http://cdn2.hubspot.net/hubfs/53/To_Do_List.png"
+        alt="A to-do list, coffee, pen and phone" width="1600px" height="200px">
+        <div class="grid-container"></div>
+        <div>
+            <h1 class="pageTitle">Much To-Do About Nothing:</h1>
+        </div>       
+
+        <form id='todoForm'>
+            <label>Task</label>
+            <input type='text' id='todoTitleInput' />
+            <label>Description</label>
+            <input type='text' id='todoDescriptionInput' />
+            <label>Importance</label>
+            <input type='number' id='todoPriceInput' />
+            <label>Is this done yet?</label>
+            <input type='checkbox' id='todoCompletedInput' />
+            <button type='submit'> Add New Todo Item </button>
+        </form>
+        
+        <div id='todoContainer'></div>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.0/axios.js"></script>
+        <script src="index.js"></script>
+        <div class="footer">  
+            <footer>
+                <h5>**Thank you for using our to-do list and best of luck to you!**</h5>
+            </footer>
+        </div>
+    </body>
+</html>
